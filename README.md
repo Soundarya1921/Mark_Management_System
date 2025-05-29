@@ -8,9 +8,9 @@ ___
 🚀 Features Complete CRUD Operations: Add, Update, Delete, and Display Student Details                    
 Advanced Search: Search student records by ID                             
 Comprehensive Reports: Generate various reports including:                                                 
-    *. Students with marks above a specified value
-    *. Students who scored in a specific subject
-    *. Top N students based on marks                                                
+    *. Students with marks above a specified value                         
+    *. Students who scored in a specific subject                                             
+    *. Top N students based on marks                                                                                                 
 Input Validation: Client-side and server-side validation                                                              
 Professional UI: Bootstrap-based responsive design                                                                 
 MVC Architecture: Clean separation of concerns                                                                       
@@ -82,3 +82,16 @@ _______
 
 🖼️ Screenshots
 
+![image alt](https://github.com/Soundarya1921/Mark_Management_System/blob/main/output_Screenshots/mark_management.png)
+
+![image alt](https://github.com/Soundarya1921/Mark_Management_System/blob/main/output_Screenshots/add.png)
+
+![image alt](https://github.com/Soundarya1921/Mark_Management_System/blob/main/output_Screenshots/update.png)
+
+![image alt](https://github.com/Soundarya1921/Mark_Management_System/blob/main/output_Screenshots/delete.png)
+
+![image alt](https://github.com/Soundarya1921/Mark_Management_System/blob/main/output_Screenshots/display.png)
+
+![image alt](https://github.com/Soundarya1921/Mark_Management_System/blob/main/output_Screenshots/report.png)
+
+_____
